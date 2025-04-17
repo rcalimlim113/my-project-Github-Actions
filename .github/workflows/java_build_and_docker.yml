@@ -23,4 +23,4 @@ jobs:
         image: yourdockerhubusername/yourimage:latest
         registry: docker.io
         username: ${{ secrets.rcalimlim113 }}
-        password: ${{ secrets.RyanUCLA1019!doc }}
+        password: ${{ secrets.RyanUCLA1019doc }}
